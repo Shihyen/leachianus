@@ -10,3 +10,7 @@
 
 ## 基因、表現
 - [概述](intro.md)
+
+## 小工具
+- [蛙爸服務費計算機](tools/waba.md)
+- [KC服務費計算機](tools/kc.md)
