@@ -2,7 +2,6 @@
 
 本文件針對New Caledonia島的巨人守宮（*Rhacodactylus leachianus*，又稱New Caledonian giant gecko或Leach's giant gecko）在四個成長階段（Baby、Juveniles、Subadult、Adult）的飼養方式進行詳細分析，涵蓋體態特徵、營養需求及生理需求（求偶、領域、公母差異）。以下方法論基於可靠來源，旨在為飼養者提供科學的飼養指南。
 
-## 方法論框架
 飼養巨人守宮需根據其成長階段調整環境、飲食和行為管理。分析從以下方面展開：
 1. **體態特徵**：描述外觀、大小及性別差異。
 2. **營養需求**：詳述飲食類型、餵食頻率及營養補充。
