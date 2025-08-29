@@ -1,6 +1,3 @@
-好的，感謝您的耐心！結合您提供的關於 Casa Lin 收費的精確資訊，我為您重新整理一份更完整、更客觀的事件時間線和分析。
-
----
 
 ### 守宮圈爭執事件：Cody vs. Doug & Casa Lin (牽連 Shane 與 Taiwancasalin)
 
